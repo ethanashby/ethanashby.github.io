@@ -28,7 +28,7 @@ I conducted this research as part of Memorial Sloan Kettering's Quantitative Sum
 
 <figure>
   <p align="center">
-  <img src="/assets/img/mt landscape.png" width="600" align="center">
+  <img src="/assets/img/mt landscape.png" width="650" align="center" alt="mito landscape">
   </p>
 </figure>
 
@@ -38,7 +38,7 @@ For my data mining final project, I extended my mentor's analysis to single nucl
 
 <figure>
   <p align="center">
-  <img src="/assets/img/alg.png" width="600" align="center">
+  <img src="/assets/img/alg.png" width="500" align="center" alt="algorithm">
   </p>
 </figure>
 
