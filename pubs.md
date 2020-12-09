@@ -13,4 +13,6 @@ Coming soon...
 - [Modeling gene expression responses with Sicegar](/assets/content/Sicegar_modeling.pdf)
 
 # Posters
-<embed src="/assets/content/Poster (32x42) PO.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/assets/content/Poster (32x42) PO.pdf" type="application/pdf" width="100%" height="800px" />
+
+<embed src="/assets/content/NiyogiPoster.pdf" type="application/pdf" width="100%" height="800px" />
