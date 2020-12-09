@@ -1,3 +1,8 @@
+---
+layout: page
+title: Other projects
+---
+
 ## Analysis of Antarctic Petrel Foraging Trips in the Southern Ocean
 
 **Check out my slide presentation [here](/Petrel Presentation.pdf).**
@@ -16,5 +21,8 @@ I also clustered the Petrel foraging trips using Partitioning Around Medoids (PA
   <img src="Prototypes_plot.png" width="850" height="300" alt="Prototypes PAM Plots">
 </p>
 
-
 This finding was supported by the scientific literature (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.191429"> Delord, K. et al., R. Soc. Open Sci. 7, 2020</a>). Exploratory plots indicated that lower sea ice cover corresponded to higher Net Primary Production, providing ecological justification for this phenomenon. This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species.
+
+## Simulating DIII National Cross Country Meet Results
+
+## Tracking Historical Corn Consumption by Sandhill Cranes in the Eastern Flyway
