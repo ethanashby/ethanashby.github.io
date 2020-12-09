@@ -18,8 +18,6 @@ navbar-links:
   Research:
     - Unseen Variant Estimation in Cancer Genome: "unseen"
     - TC RNA-Seq: "impulse"
-      - Tech Report: "tech"
-      - NIMBIOS: "NIMBIOS"
     - More: "extra"
   Publications: "pubs"
   CV: "EAshby CV FINAL.pdf"
