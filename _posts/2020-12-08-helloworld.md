@@ -3,9 +3,9 @@ layout: post
 title: Surveying the visible and hidden mutational landscape of the cancer mitochondrion
 subtitle: My first blog post
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [test]
+thumbnail-img: /assets/img/mitochondria_stained.jpeg
+share-img: /assets/img/mitochondria_stained.jpeg
+tags: [nonparametric methods, mitochondria, cancer, mutation]
 ---
 
 I've long wanted to outfit my personal website with a blog, but jekyll setup threw some nasty errors that dissuaded me. Thanks to some web searching, I think I've found a workaround!
