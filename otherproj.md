@@ -40,10 +40,22 @@ We scraped publically availble race data over the 2018 and 2019 cross country se
 
 Our simulated results indicated the competitive landscape for each year. Teams were classified as overperformers or underperformers based on how many points they beat their expected simulated score by, and how likely they were to beat that score based on empirical probabilities. Carleton and Pomona-Pitzer (my team!) were found to be overperformers over those two seasons, while Carnegie-Mellon profoundly underperformed over those two seasons.
 
+<figure>
+<p align="center">
+  <img src="/assets/img/PPNats.jpg" width="500" align="center" alt="NATS">
+</p>
+</figure>
+
 This was an especially poigniant project for me, since I got the opportunity to run at the 2019 NCAA DIII National Cross Country Meet. At the meet, I helped our team capture the first national championship in school history. Check out the picture of the victorious Sagehens!
 
 ## Tracking Historical Corn Consumption by Sandhill Cranes in the Eastern Flyway
 **Check out my proposal [here](assets/content/Avian Proposal Final.pdf).**
+
+<figure>
+<p align="center">
+  <img src="/assets/img/Sandhill.jpg" width="300" align="center" alt="NATS">
+</p>
+</figure>
 
 In the spring of 2020, I wrote a mock grant proposal to use isotopic (C13) ratios in museum specimens of Sandhill Cranes from the Eastern Flyway to measure temporal trends in corn consumption by this once endangered avian species. This represented a well-researched and thoughtfully-concieved approach to leveraging museum specimens for interesting historical ecology research. Additionally, as climate change affects the agriculture of the American Heartland, this project could be useful for projecting the impacts on this important species. 
 
