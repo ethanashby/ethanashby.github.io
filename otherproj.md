@@ -29,7 +29,7 @@ This finding was supported by the scientific literature (<a href="https://royals
 
 ## Simulating DIII National Cross Country Meets
 
-**Check out our slide presentation [here](assets/content/Math154-FinalProject-Slides.pdf)**
+**Check out our slide presentation [here](assets/content/Math154-FinalProject-Slides.pdf)**. <br>
 **Check out our <a href="https://n8stringham.shinyapps.io/CrossCountry_Simulator/">shiny app simulator</a> for this project.**
 
 I am a Division III Cross Country runner, and much of my time outside of class is spent training 75 miles a week to compete in long distance Cross Country and Track races. Long distance running is notoriously difficult to predict, because performance is highly stochastic and races are influenced by many factors: weather, health, level of competition, etc.
@@ -43,11 +43,13 @@ Our simulated results indicated the competitive landscape for each year. Teams w
 This was an especially poigniant project for me, since I got the opportunity to run at the 2019 NCAA DIII National Cross Country Meet. At the meet, I helped our team capture the first national championship in school history. Check out the picture of the victorious Sagehens!
 
 ## Tracking Historical Corn Consumption by Sandhill Cranes in the Eastern Flyway
+**Check out my proposal [here](assets/content/Avian Proposal Final.pdf).**
 
-In the spring of 2020, I wrote a mock grant proposal to use isotopic (C13) ratios in museum specimens of Sandhill Cranes from the Eastern Flyway to measure temporal trends in corn consumption by this once endangered avian species. This represented a well-researched and thoughtfully-concieved approach to leveraging museum specimens for interesting historical ecology research. Additionally, as climate change affects the agriculture of the American Heartland, this project could be useful for projecting the impacts on this important species. Check out my proposal [here](assets/content/Avian Proposal Final.pdf).
+In the spring of 2020, I wrote a mock grant proposal to use isotopic (C13) ratios in museum specimens of Sandhill Cranes from the Eastern Flyway to measure temporal trends in corn consumption by this once endangered avian species. This represented a well-researched and thoughtfully-concieved approach to leveraging museum specimens for interesting historical ecology research. Additionally, as climate change affects the agriculture of the American Heartland, this project could be useful for projecting the impacts on this important species. 
 
 ## UCLA Datafest 2019: Travel and Player Fatigue on the Candian National Women's Rugby 7's Team
+**Check out our (short and silly!) presentation [here](assets/content/B11_FlockOfSQLs.pdf).**
 
-In collaboration with several classmates, I attended UCLA Datafest in the Spring of 2019, where we won the Best Use of External Data Award for scraping Twitter Data to determine when the Canadian National Rugby team was traveling for competition. Then we created a metric for fatigue, incorporating a number of variables, and saw that this metric tended to spike immediately following travel trips. We contended that this work may encourage the team to invest in more recovery to maximize the performance of their athletes. Check out our (silly!) presentation [here](assets/content/B11_FlockOfSQLs.pdf).
+In collaboration with several classmates, I attended UCLA Datafest in the Spring of 2019, where we won the Best Use of External Data Award for scraping Twitter Data to determine when the Canadian National Rugby team was traveling for competition. Then we created a metric for fatigue, incorporating a number of variables, and saw that this metric tended to spike immediately following travel trips. We contended that this work may encourage the team to invest in more recovery to maximize the performance of their athletes. 
 
 
