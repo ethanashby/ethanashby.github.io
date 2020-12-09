@@ -11,7 +11,7 @@ Antarctic Petrels (*Thalassoica antarctica*) are an important Antarctic sentinel
 
 <figure>
 <p align="center">
-  <img src="assets/img/petrel.jpg" width=500>
+  <img src="assets/img/petrelfly.png" width="600" align="center">
 </p>
 </figure>
 
@@ -21,7 +21,7 @@ I also clustered the Petrel foraging trips using Partitioning Around Medoids (PA
 
 <figure>
 <p align="center">
-  <img src="/assets/content/Prototypes_plot.png" width=800>
+  <img src="/assets/content/Prototypes_plot.png" width="800" align="center">
 </p>
 </figure>                                                                                       
 
@@ -41,7 +41,7 @@ We scraped publically availble race data over the 2018 and 2019 cross country se
 Our simulated results indicated the competitive landscape for each year. Teams were classified as overperformers or underperformers based on how many points they beat their expected simulated score by, and how likely they were to beat that score based on empirical probabilities. Carleton and Pomona-Pitzer (my team!) were found to be overperformers over those two seasons, while Carnegie-Mellon profoundly underperformed over those two seasons.
 
 <p align="center">
-  <img src="assets/img/PPNats.jpg" width="600">
+  <img src="assets/img/PPNats.jpg" width="600" align="center">
 </p>
 
 This was an especially poigniant project for me, since I got the opportunity to run at the 2019 NCAA DIII National Cross Country Meet. At the meet, I helped our team capture the first national championship in school history. Check out the picture of the victorious Sagehens!
