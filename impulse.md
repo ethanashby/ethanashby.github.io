@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Time Course RNA-Seq Analysis and the Impulse Model
+subtitle: Pomona and Harvey-Mudd Colleges
 ---
 
 <figure>
   <p align="center">
-  <img src="/assets/img/PPNats.jpg" width="600" align="center">
-  <figcaption>My teammates and I, celebrating our NCAA Cross-Country National Championship.</figcaption>
+  <img src="/assets/img/Impulse.png" width="600" align="center">
+  <figcaption>The impulse model, the scaled product of two sigmoid models.</figcaption>
    </p>
 </figure>
 
