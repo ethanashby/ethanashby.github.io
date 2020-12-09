@@ -6,6 +6,12 @@ subtitle: Statistics, Biology, Running, and More
 
 My name is Ethan Ashby, and I am a senior mathematics major/biology minor at Pomona College in Claremont, CA. I am deeply interested in connecting quantitative methods to biomedical problems. My research interests lie at the nexus of statistical and machine learning methods development, genetics, oncology, and personalized medicine. I have proactively contributed to several research projects spanning statistical genetics, bioinformatics, and ecology. I value effective communication, determination, and cross-functional collaboration. Please reach out to me with any inquiries, ideas, or collaborations!
 
+<figure>
+  <p align="center">
+  <img src="/assets/img/IMG_4193.jpg" width="600" align="center">
+   </p>
+ </figure>
+
 ### My story
 
 I am originally from and currently live in the Bay Area, although I spent several years living in America's Dairyland! My hobbies include running, bicycling, birdwatching, tea drinking, and listening to music (of many varieties). 
