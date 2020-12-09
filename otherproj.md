@@ -25,7 +25,7 @@ I also clustered the Petrel foraging trips using Partitioning Around Medoids (PA
 </p>
 </figure>                                                                                       
 
-This finding was supported by the scientific literature (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.191429"> Delord, K. et al., R. Soc. Open Sci. 7, 2020</a>). Exploratory plots indicated that lower sea ice cover corresponded to higher Net Primary Production, providing ecological justification for this phenomenon. This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species.
+This finding was supported by the scientific literature (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.191429">Delord, K. et al., R. Soc. Open Sci. 7, 2020</a>). Exploratory plots indicated that lower sea ice cover corresponded to higher Net Primary Production, providing ecological justification for this phenomenon. This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species.
 
 ## Simulating DIII National Cross Country Meets
 
@@ -34,7 +34,7 @@ This finding was supported by the scientific literature (<a href="https://royals
 
 I am a Division III Cross Country runner, and much of my time outside of class is spent training 75 miles a week to compete in long distance Cross Country and Track races. Long distance running is notoriously difficult to predict, because performance is highly stochastic and races are influenced by many factors: weather, health, level of competition, etc.
 
-In the running world, athletes spend a lot of time predicting race outcomes and analyzing past races to understand what individuals/teams are favorites, and which teams over/underperform relative to expectations. Along with my classmates and teammates <a href="https://github.com/tedtonks87>Daniel Rosen</a> and <a href="https://github.com/n8stringham">Nathan Stringham</a>, we took a data-driven approach to this problem, which could provide useful information for evaluating coaches and providing information to recruits.
+In the running world, athletes spend a lot of time predicting race outcomes and analyzing past races to understand what individuals/teams are favorites, and which teams over/underperform relative to expectations. Along with my classmates and teammates <a href="https://github.com/tedtonks87">Daniel Rosen</a> and <a href="https://github.com/n8stringham">Nathan Stringham</a>, we took a data-driven approach to this problem, which could provide useful information for evaluating coaches and providing information to recruits.
 
 We scraped publically availble race data over the 2018 and 2019 cross country seasons off of <a href="https://www.tfrrs.org/">TFRRS</a> and adjusted the race times based on course difficulty. Then we modeled each individual athlete's performance using a normal distribution, and drew random times for each athlete. Then times for every runner at the national meet were ranked, simulating a virtual race. Team scores were computed by the place of the top 5 runners, and teams were ranked based on these scores.
 
