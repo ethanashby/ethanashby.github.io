@@ -1,13 +1,15 @@
 ---
-layout: minimal
+layout: page
 title: Mining tissue-specific signals from rare variants in the cancer genome
 subtitle: Memorial Sloan Kettering Cancer Center & Pomona College
 ---
 
-<p align="center">
-    <img src="assets/img/wordcloud.png" width="450" height="450" />
-    <figcaption><i>This word cloud was generated from The Cancer Genome Atlas home webpage. Our analysis considers a kind of "mutational wordcloud", and uses methods developed in computational linguistics to calculate probabilities of encountering rare mutations (or green words) with the goal of attributing primary sites to cancer. </i></figcaption>
-</p>
+<figure>
+    <p align="center">
+        <img src="assets/img/wordcloud.png" width="450" height="450">
+        <figcaption>This word cloud was generated from The Cancer Genome Atlas home webpage. Our analysis considers a kind of "mutational wordcloud", and uses methods developed in computational linguistics to calculate probabilities of encountering rare mutations (or green words) with the goal of attributing primary sites to cancer.</figcaption>
+    </p>
+</figure>
 
 **Check out my slide deck here: [QSURE Slide Deck: Metafeature Clustering](/MSK Presentation slides.pdf)**
 
