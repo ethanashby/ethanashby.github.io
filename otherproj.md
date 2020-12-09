@@ -64,4 +64,8 @@ In the spring of 2020, I wrote a mock grant proposal to use isotopic (C13) ratio
 
 In collaboration with several classmates, I attended UCLA Datafest in the Spring of 2019, where we won the Best Use of External Data Award for scraping Twitter Data to determine when the Canadian National Rugby team was traveling for competition. Then we created a metric for fatigue, incorporating a number of variables, and saw that this metric tended to spike immediately following travel trips. We contended that this work may encourage the team to invest in more recovery to maximize the performance of their athletes. 
 
+## Characterizing Astaxanthin Overproducing Mutants in *Chromochloris zofingiensis*
+
+In the summer of 2018, I spent the summer working at Niyogi Lab in the Plant and Microbial Biology Dept at the University of California, Berkeley. Working under a graduate student, I helped characterize UV mutagenized strains of the unicellular green algae *Chromochloris zofingiensis* vis-a-vis their ability to grow and produce a valuable pigment, astaxanthin. This internship was also my first exposure to bioinformatics research, as I independently taught myself to program in the bash shell. I constructed a pipeline to incorporat sequence homology and gene expression information to identify potential gene annotation errors in the *Chromochloris* draft genome.
+
 
