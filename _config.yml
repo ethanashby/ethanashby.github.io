@@ -16,11 +16,11 @@ author: Ethan Ashby
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Impulse Modeling of Transcriptional Responses: "impulse"
+    - Unseen Variant Estimation in Cancer Genome: "https://beautifuljekyll.com"
+    - TC RNA-Seq: "impulse"
     - More: "https://beautifuljekyll.com"
   Publications: "pubs"
-  CV: "CV"
+  CV: "CV.pdf"
   Teaching: "teach"
   
 
