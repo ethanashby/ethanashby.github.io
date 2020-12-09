@@ -10,7 +10,7 @@ subtitle: Memorial Sloan Kettering Cancer Center & Pomona College
   </p>
 </figure>
 
-**Check out my slide deck here: [QSURE Slide Deck: Metafeature Clustering](/MSK Presentation slides.pdf)**
+**Check out my slide deck here: [QSURE Slide Deck: Metafeature Clustering](/assets/content/MSK Presentation slides.pdf)**
 
 **Check out my project abstract: [QSURE Project Abstract](/QSURE Abstract Edited.pdf)**
 
