@@ -246,7 +246,7 @@ img {
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
-  min-width: 100;
+  min-width: 800;
   margin-top: 0;
   font-size: 1em;
   border: 0;
