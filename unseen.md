@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Mining tissue-specific signals from rare variants in the cancer genome
 subtitle: Memorial Sloan Kettering Cancer Center & Pomona College
 ---
