@@ -3,9 +3,8 @@ layout: page
 title: Time Course RNA-Seq Analysis and the Impulse Model
 ---
 
-<br>
 <p align="center">
-  <img src="assets/imag/Impulse.png" width="460" height="345">
+  <img src="assets/img/Impulse.png" width="450">
 </p>
 
 Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, under the mentorship of Professors Johanna Hardin, Daniel Stoebel, and Danae Schulz, I explored the Impulse models (<a href="https://pubmed.ncbi.nlm.nih.gov/19193146/">Chechik & Koller, Comput. Biol. 16:279–290, 2009</a>), a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. Time course RNA-seq data violates theoretical assumptions (like independence of samples, since expression values are correlated between time points) that underpin many differential expression algorithms used for analyzing these data. What's more, categorical treatments of time lead to power loss in the ability to detect differentially expressed genes in these experiments.
