@@ -11,7 +11,7 @@ Antarctic Petrels (*Thalassoica antarctica*) are an important Antarctic sentinel
 
 <figure>
 <p align="center">
-  <img src="/assets/img/petrelfly.png" width="600" align="center" alt="petrel">
+  <img src="/assets/img/petrelfly.jpeg" width="600" align="center" alt="petrel">
 </p>
 </figure>
 
