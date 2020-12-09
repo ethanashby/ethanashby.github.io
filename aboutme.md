@@ -8,7 +8,7 @@ My name is Ethan Ashby, and I am a senior mathematics major/biology minor at Pom
 
 ### My story
 
-I am originally from and currently lived in the Bay Area, although I spent several years living in the Midwest! My hobbies include running, bicycling, birdwatching, and listening to music (of many varieties). 
+I am originally from and currently live in the Bay Area, although I spent several years living in the Midwest! My hobbies include running, bicycling, birdwatching, and listening to music (of many varieties). 
 
 As an undergraduate, I've had to balance rigorous coursework and research with the demands of collegiate athletics. I compete for the Pomona-Pitzer Track and Field and Cross-Country teams, requiring me to train diligently year round for my long distance races. In the fall of 2019, I was lucky enough to race at the NCAA D3 Cross Country National Championships, where I helped Pomona-Pitzer capture it's first men's national championship in the history of PP athletics!
 
