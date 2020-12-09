@@ -16,9 +16,9 @@ author: Ethan Ashby
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Unseen Variant Estimation in Cancer Genome: "https://beautifuljekyll.com"
+    - Unseen Variant Estimation in Cancer Genome: "unseen"
     - TC RNA-Seq: "impulse"
-    - More: "https://beautifuljekyll.com"
+    - More: "extra"
   Publications: "pubs"
   CV: "EAshby CV FINAL.pdf"
   Teaching: "teach"
