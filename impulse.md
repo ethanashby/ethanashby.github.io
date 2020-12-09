@@ -1,4 +1,8 @@
-## Time Course RNA-Seq Analysis and the Impulse Model
+---
+layout: page
+title: Time Course RNA-Seq Analysis and the Impulse Model
+---
+
 <br>
 <p align="center">
   <img src="assets/imag/Impulse.png" width="460" height="345">
