@@ -2,7 +2,7 @@
 layout: post
 title: Surveying the visible and hidden mutational landscape of the cancer mitochondrion
 subtitle: My first blog post
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/landscape1.jpg
 thumbnail-img: /assets/img/mitochondria_stained.jpeg
 share-img: /assets/img/mitochondria_stained.jpeg
 tags: [nonparametric methods, mitochondria, cancer, mutation]
