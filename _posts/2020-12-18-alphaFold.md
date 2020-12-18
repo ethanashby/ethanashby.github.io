@@ -12,7 +12,7 @@ Thank you to my friend Nate Stringham for sending me [this article](https://www.
 
 As an unknowledgeable enthusiast of proteomics, I found this blogpost was a really nice (and not too technical) distillation of the major findings at the 14th Critical Assessment of Structural Prediction (CASP) Competition, of which AlphaFold2 was the runaway winner.
 
-![AlphaFold2 prediction (blue) vs the known target protein structure T1046s1 (red) illustrating remarkable prediction!](/assets/img/fold.png){width=50%}
+![AlphaFold2 prediction (blue) vs the known target protein structure T1046s1 (red) illustrating remarkable prediction!](/assets/img/fold.png)
 
 Here were my main takeaways from the article, categorized by what AlphaFold2 does well vs where it has room for improvement vs outstanding questions:
 - AlphaFold2 successes
