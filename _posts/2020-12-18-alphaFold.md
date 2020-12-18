@@ -2,9 +2,9 @@
 layout: post
 title: AlphaFold2
 subtitle: Solving the protein structure problem
-cover-img: /assets/img/landscape1.jpeg
-thumbnail-img: /assets/img/mitochondria_stained.jpeg
-share-img: /assets/img/mitochondria_stained.jpeg
+cover-img: /assets/img/alphafold2_perf.png
+thumbnail-img: /assets/img/fold.png
+share-img: /assets/img/fold.png
 tags: [AlphaFold2, protein structure]
 ---
 Thank you to my friend Nate Stringham for sending me [this article](https://www.blopig.com/blog/2020/12/casp14-what-google-deepminds-alphafold-2-really-achieved-and-what-it-means-for-protein-folding-biology-and-bioinformatics/) on Google Alphabet's recent development of their new AlphaFold2 Deep Learning prediction method for solving the protein structure problem! The cover image (above) shows the sum Z-score performance (essentially how much each method outperforms the average over a number of protein structures): group 427, AlphaFold2, shows a remarkable boost relative to all the other methods!
