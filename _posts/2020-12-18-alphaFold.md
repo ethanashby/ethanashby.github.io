@@ -1,13 +1,12 @@
 ---
 layout: post
-title: AlphaFold2: solving the protein structure problem
-subtitle: Admiration, implications, and future questions
+title: Surveying the visible and hidden mutational landscape of the cancer mitochondrion
+subtitle: My first blog post
 cover-img: /assets/img/landscape1.jpeg
 thumbnail-img: /assets/img/mitochondria_stained.jpeg
 share-img: /assets/img/mitochondria_stained.jpeg
-tags: [AlphaFold2, protein structure]
+tags: [nonparametric methods, mitochondria, cancer, mutation]
 ---
-
 Thank you to my friend Nate Stringham for sending me [this article](https://www.blopig.com/blog/2020/12/casp14-what-google-deepminds-alphafold-2-really-achieved-and-what-it-means-for-protein-folding-biology-and-bioinformatics/) on Google Alphabet's recent development of their new AlphaFold2 Deep Learning prediction method for solving the protein structure problem! The cover image (above) shows the sum Z-score performance (essentially how much each method outperforms the average over a number of protein structures): group 427, AlphaFold2, shows a remarkable boost relative to all the other methods!
 
 As an unknowledgeable enthusiast of proteomics, I found this blogpost was a really nice (and not too technical) distillation of the major findings at the 14th Critical Assessment of Structural Prediction (CASP) Competition, of which AlphaFold2 was the runaway winner.
