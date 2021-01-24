@@ -2,9 +2,9 @@
 layout: post
 title: A Higher Loyalty
 subtitle: Thoughts on James Comey's treatise on ethical leadership
-cover-img: /assets/img/alphafold2_perf.png
-thumbnail-img: /assets/img/fold.png
-share-img: /assets/img/fold.png
+cover-img: /assets/img/comey.jpg
+thumbnail-img: /assets/img/comey.jpg
+share-img: /assets/img/comey.jpg
 tags: [Comey, leadership, book review]
 ---
 
