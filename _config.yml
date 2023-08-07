@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ethan Ashby"
-  avatar           : "prof.png"
+  avatar           : "images/prof.png"
   bio              : "Biostatistics PhD Student, University of Washington"
   location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=eaQMdjsAAAAJ"
-  strava           : "https://www.strava.com/athletes/22692190"
-  email            :
+  email            : "eashby@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
