@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ethan Ashby"
-  avatar           : "images/prof.png"
+  avatar           : "images/profile.png"
   bio              : "Biostatistics PhD Student, University of Washington"
   location         : "Seattle, WA"
   employer         :
