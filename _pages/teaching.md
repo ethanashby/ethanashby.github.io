@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching resources
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
