@@ -228,10 +228,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _publications
   - scope:
       path: ""
-      type: portfolio
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _misc
+  - scope:
+      path: ""
+      type: misc
     values:
       layout: single
       author_profile: true
