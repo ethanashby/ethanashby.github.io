@@ -2,7 +2,7 @@
 title: "Genomic Occupancy of the Bromodomain Protein Bdf3 Is Dynamic during Differentiation of African Trypanosomes from Bloodstream to Procyclic Forms"
 collection: publications
 permalink: /publication/2022bromooccupancypaper
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Cut&Run data analysis demonstrates Bdf3 protein occupancy changes at different sites on the T. brucei genome.'
 date: 2022-06-29
 venue: 'MSphere'
 paperurl: 'https://journals.asm.org/doi/full/10.1128/msphere.00023-22'
