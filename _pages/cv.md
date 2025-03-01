@@ -13,10 +13,20 @@ Education
 ======
 * B.S. in Mathematics, Pomona College, 2021.
 	* Concentration in Statistics, Minor in Biology
-* Ph.D in Biostatistics, University of Washington, 2026 (expected)
+* Ph.D in Biostatistics, University of Washington, 2026 (anticipated)
 
 Work and teaching experience
 ======
+
+* Summer 2025: Intern in Product Development Data Science
+  * Genentech
+
+* Spring 2024: Teaching Assistant Multilevel Data Analysis
+  * University of Washington
+
+* Winter 2024: Teaching Assistant Survival Analysis
+  * University of Washington
+
 * 2021-present: Graduate Research Assistant
   * Fred Hutchinson Cancer Research Center
   * Secondary analyses of COVID/HIV vaccine trials and methodological work.
