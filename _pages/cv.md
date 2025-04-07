@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Pomona College, 2021.
 	* Concentration in Statistics, Minor in Biology
+* M.S. in Biostatistics, University of Washington, 2025.
 * Ph.D in Biostatistics, University of Washington, 2026 (anticipated)
 
 Work and teaching experience
