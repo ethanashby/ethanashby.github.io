@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Ethan Ashby's personal research website. I am a PhD student at the University of Washington in Biostatistics in the School of Public Health. I graduated with a BA in Mathematics from Pomona College. My research is supported financially through the NSF Graduate Research Fellowship Grant.
+This is Ethan Ashby's research website. I am a Statistician in the Early Development Biometrics group at Genentech. I earned my PhD from the Department of Biostatistics at the University of Washington, where my research focused on developing statistical methods to evaluate vaccine effectiveness. My research was supported financially through the NSF Graduate Research Fellowship Grant. I also graduated with a BA in Mathematics from Pomona College. 
 
-My research interests lie in developing and leveraging statistical methods to advance vaccine science, particularly for COVID-19 and HIV-1 vaccines. I am broadly interested in the causal inference, survival analysis, treatment effect heterogeneity, and interference.
+I am broadly interested in the statistics for clinical trials, causal inference, survival analysis, treatment effect heterogeneity, and causal interference.
 
 ## Highlights
 
